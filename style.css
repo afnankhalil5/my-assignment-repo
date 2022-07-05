@@ -36,3 +36,44 @@ h4 {
 .humanity {
     color: bisque;
 }
+
+.one {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#lekha {
+    font-size: 20px;
+}
+
+.money {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.taka {
+    text-align: center;
+    margin: 10px;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(238, 236, 236);
+}
+
+#extra {
+    border: 5px solid gold;
+}
+
+#box {
+    margin-left: 380px;
+}
+
+.another {
+    text-align: center;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.otheramount {
+    text-decoration: underline;
+}

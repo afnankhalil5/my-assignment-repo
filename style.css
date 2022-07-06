@@ -77,3 +77,47 @@ h2 {
 .otheramount {
     text-decoration: underline;
 }
+
+.to-do {
+    display: flex;
+    width: 50%;
+    padding-left: 5%;
+    margin-left: 300px;
+    text-align: justify;
+}
+
+.alpha {
+    text-align: center;
+}
+
+.beta {
+    border: 3px solid rgba(231, 231, 181, 0.73);
+    background-color: rgba(231, 231, 181, 0.73);
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px;
+}
+
+.gama {
+    margin-left: 50px;
+    border: 2px solid rgba(189, 229, 243, 0.775);
+    background-color: rgba(189, 229, 243, 0.775);
+    padding: 20px;
+}
+
+.fa-solid {
+    font-size: 30px;
+}
+
+.rehab {
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+
+.today {
+    margin-bottom: 100px;
+}
+
+.plan {
+    margin-bottom: 50px;
+}

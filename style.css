@@ -160,17 +160,21 @@ button {
 
 .email {
     text-align: center;
-    padding-top: 30px;
-    padding-bottom: 30px;
 }
 
 .updates {
-    background-color: rgb(250, 241, 191);
+    width: 500px;
+    margin-left: 30%;
 }
 
 .footer {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    color: gold;
     text-align: center;
-    background-color: lightblue;
+    background-color: black;
+}
+
+#sub {
+    background-color: rgb(250, 241, 191);
+    padding-top: 50px;
+    padding-bottom: 50px;
 }

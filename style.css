@@ -152,3 +152,25 @@ h2 {
 .head {
     color: rgb(237, 204, 15);
 }
+
+button {
+    background-color: gold;
+    border: 10px solid gold;
+}
+
+.email {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.updates {
+    background-color: rgb(250, 241, 191);
+}
+
+.footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    background-color: lightblue;
+}
